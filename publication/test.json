@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "StatsCAN Test",
+    "slug": "statcantest",
+    "version": "1.0.10",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#003366"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "requireFullScreen": true,
+      "bundleIdentifier": "com.statcan.StatCantest",
+      "buildNumber": "1.0.47"
+    },
+    "android": {
+      "package": "com.statcan.StatCantest",
+      "versionCode": 47,
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

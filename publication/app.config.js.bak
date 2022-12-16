@@ -1,0 +1,28 @@
+/** @format */
+
+const IS_DEV = process.env.APP_VARIANT === "production";
+
+export default () => {
+  return {
+    name: IS_DEV ? "StatsCAN" : "StatsCan Alpha",
+    slug: IS_DEV ? "statcan" : "statscanalpha",
+    version: "2.0.1",
+    orientation: "portrait",
+
+    icon: IS_DEV ? "./assets/icon.png" : "./assets/alphaicon.png",
+    ios: {
+      bundleIdentifier: IS_DEV
+        ? "com.statcan.StatCan"
+        : "com.statcan.statcanpublication",
+      buildNumber: "1.0.55",
+      supportsTablet: true,
+      requireFullScreen: true,
+    },
+    android: {
+      package: IS_DEV
+        ? "com.statcan.StatCan"
+        : "com.statcan.statcanpublication",
+      versionCode: 55,
+    },
+  };
+};

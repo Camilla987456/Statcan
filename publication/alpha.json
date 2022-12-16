@@ -1,0 +1,53 @@
+{
+  "expo": {
+    "name": "StatsCan Alpha",
+    "slug": "statscanalpha",
+    "version": "3.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#003366"
+    },
+    "scheme": "stc",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "requireFullScreen": true,
+      "bundleIdentifier": "com.statcan.statcanpublication",
+      "buildNumber": "1.0.64",
+      "associatedDomains": ["applinks:sdr-daily-alpha.cloud.statcan.ca"]
+    },
+    "android": {
+      "package": "com.statcan.statcanpublicationnew",
+      "versionCode": 64,
+      "permissions": [],
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "data": [
+            {
+              "scheme": "https",
+              "host": "*.sdr-daily-alpha.cloud.statcan.ca",
+              "pathPrefix": "/article"
+            }
+          ],
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "514807b0-cc70-49aa-a413-b27c178135a2"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-4804805194854452523-941",
+  "private_key_id": "fb6af0deaf7317e3f7d145465cd25109cf82b880",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFQU0PDM+FREL1\ncB5iGpV7eDc/8Ap4Jtv/c7zMSjgCh+lQ/BLr3S/cA+Qu8ToIrGOP3kZHFxqpGzeW\ndqoVHLIk745as7f+5k/4bInq6XNm+nGLEmpakHCKRYl135D9r62twriQ4aDogS5c\nobg65eITg3sDRfC9vp4lLjo662ojECGMNw1KPNUm1mNcL0PEaGQlKCVAXxTeOTZ8\nazLkbF3sg9YuFtcO0jK3cev7vUbOMTnfQ2eugNhRVg5XqHAmThwt7ARUeh8Hj6Tc\nq99rD+1enpjDm1uQ5zt57PY9ZhVkHMpdCcsq+Z6DWtA/k/VypITwgAalXWYIQovE\nMOc3+hcfAgMBAAECggEAAv6pz9eu8uQFbDqGi5DBwj0iAZuAXTCh2HAGZsedsBQm\nK6+YDfKuvlVkyn2pFuafIFkMkhm8suKR5nvouydTYRIuBByEZ59RiYEEWweuU9rr\njGP8L2HQA5loq9x4FBHtvhydtr1mNwF3Fbry1BoXY5p0bKlMLWVOe1wHUEuwsdWP\nCXM0BmQJ+v+m8LsqVvvbTJTchABF1RFD4PCsE5ApMM1hey0yXbHIxglEvfV0dSxT\n6qZpSksFDvv0lqVbdG4WeNH3FQhZQ4PwZRp6PpoukBL2Ho3vL9HBlIiFs1Luok1h\ntAatwS0Ap5I6lzJHrO96oxWoXt4oF7vXSTAsgaTa6QKBgQDmggwqU31qgab9Ii6d\nGzKIIWRbqOfm5B1RgRmEreHMYq1ZBdmSMmysuj3/Wi5lAoouD3HKjVU6G4rdv0Cl\n2FXt74i2m2/z11jZPLppPzgh2a908Fp6TpkNGXwvEAMmockhAqg/09Gcan89J3do\nrHBypx7fVAZrpPkbuFA6Z18qrQKBgQDbEdMHml2NXoailxzvLWezQC+QxEmuyjqG\ngTk76taIBz8hrVbbqKSyB/9+thci/BPa7t24vDv+byo9DDLDaZ3l+Esk0JlmqA6u\nil0s0vgrrbUzYxAP5Cc6ZQuatNBKSvEekh0pm+oLufLyLkV9y9LtWYNBbP21uHc6\nx9XylhuuewKBgQCMswa/8zRThY4rZujzBr3icBd1B3V97vGiZV3xKb3w5q6O704t\nuc+x4wCi1CYLi/BSSyUXEQvbqyIpVmsckB9rW9GkPN6qBWF7QGE8itU1fE1n4Kop\ni75KS6sMgwaZVxmQp7GRPDbu9eZyqpttbgw5P59NjFla7VkMvYVjEOP7BQKBgDtl\nbMst7lmLHIPu5thufiRarcrZfYTXreCUHtmBBaOiG1rdLaSm5+ihRIOtiT5iDFwa\n0aDp4HZO26vrp8PV2grlNDKKIF12CW0HdNXXaZQmJ/AD1vIIER7DEM9kYOkTwqZg\nRWnnrSB6zUUeiJbf8ZOK5oyRqYRgvGsCjZ6VVnILAoGBAKfDOLaLIyWmUVUKcuV4\nO0lGg0Cf2iWLhM3KNEq53hwu4JFK3GTm61BRtIaHhyG3JQ/xb0ml/tiEGD9E6xnt\nw/bwWQwEhUdMknVlqs5Dlu3ufg8kOLCQYcSL4x3t6d/Xwcksezu20g5324S8lIbO\nf4TqxatuVP1MJxP2uu6Vz9EH\n-----END PRIVATE KEY-----\n",
+  "client_email": "expoeasbuildandroid@pc-api-4804805194854452523-941.iam.gserviceaccount.com",
+  "client_id": "103535544516896482317",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/expoeasbuildandroid%40pc-api-4804805194854452523-941.iam.gserviceaccount.com"
+}
